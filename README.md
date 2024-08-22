@@ -1,0 +1,26 @@
+
+
+
+# Project overview
+
+
+# Questions 
+...
+
+# Dataset 
+...
+
+## Main dataset issues
+
+- ...
+- ...
+- ...
+
+## Solutions for the dataset issues
+...
+
+# Conclussions
+...
+
+# Next steps
+...
