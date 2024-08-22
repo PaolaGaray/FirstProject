@@ -460,13 +460,13 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "geopandas" },
-    { name = "ipykernel" },
-    { name = "jupyter" },
-    { name = "matplotlib" },
-    { name = "numpy" },
-    { name = "pandas" },
-    { name = "seaborn" },
+    { name = "geopandas", specifier = ">=1.0.1" },
+    { name = "ipykernel", specifier = ">=6.29.5" },
+    { name = "jupyter", specifier = ">=1.0.0" },
+    { name = "matplotlib", specifier = ">=3.9.2" },
+    { name = "numpy", specifier = ">=2.0.1" },
+    { name = "pandas", specifier = ">=2.2.2" },
+    { name = "seaborn", specifier = ">=0.13.2" },
 ]
 
 [[package]]
