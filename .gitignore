@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 .venv/
 .new_venv/
+venv/
 .env
 notebooks/.ipynb_checkpoints/
 notebooks/.env
