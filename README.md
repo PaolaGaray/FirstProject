@@ -33,17 +33,17 @@ Correlation between HDI improvements and GDP growth in countries with varying le
 
 **Country Selection**
 The analysis will focus on the following countries, selected from different regions:
-Europe: Norway, Greece, France, Germany
-Americas: United States, Brazil, Colombia
-Asia-Pacific: Japan, New Zealand, Pakistan
-Africa: Ghana, Cameroon
+1) Europe: Norway, Greece, France, Germany
+2) Americas: United States, Brazil, Colombia
+3) Asia-Pacific: Japan, New Zealand, Pakistan
+4) Africa: Ghana, Cameroon
 
 **Data Sources:**
 
-World Policy Analysis Centre: Gender Equality in the Economy data (downloadable datasets).
-Kaggle: Labor Force Participation Rate dataset.
-World Bank: Gender Equality datasets and economic performance indicators.
-OECD: Gender Wage pay gap dataset.
+1) World Policy Analysis Centre: Gender Equality in the Economy data (downloadable datasets).
+2) Kaggle: Labor Force Participation Rate dataset.
+3) World Bank: Gender Equality datasets and economic performance indicators.
+4) OECD: Gender Wage pay gap dataset.
 
 
 ## Main dataset issues
