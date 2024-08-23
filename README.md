@@ -65,8 +65,8 @@ OECD: Gender Wage pay gap dataset.
 The analysis reveals a significant challenge in understanding the relationship between gender equality and economic growth: certain countries achieve high GDP levels despite low female labor force participation. This divergence highlights the complexity of linking gender equality directly to economic performance, especially in economies where growth is driven by sectors with traditionally low female employment or shaped by strong cultural norms. To address this, it's essential to examine sectoral contributions to GDP, explore relevant case studies, and consider the long-term benefits of increased female participation in the workforce.
 
 # Next steps
-Expand Data Collection
-Develop Predictive Models
-Policy Impact Assessment
+1) Expand Data Collection
+2) Develop Predictive Models
+3) Policy Impact Assessment
 
 
