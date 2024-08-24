@@ -1,4 +1,4 @@
- garima
+
 Project Title: Reducing Gender Inequality to Support GDP Growth by Lucie Stenger, Paola Angela, Nicole Pinto, Garima Sharma
 
 Project overview
